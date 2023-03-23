@@ -1,0 +1,12 @@
+# Dependências
+/node_modules
+npm-debug.log
+
+# Arquivos de compilação
+/dist
+*.bak
+*.map
+
+# Outros
+.DS_Store
+.env
